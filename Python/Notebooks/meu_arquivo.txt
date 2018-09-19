@@ -1,0 +1,8 @@
+Olá
+olá, como vai
+
+Então tchau!
+
+um texto	depois de um <tab>
+Acrescentei uma linha
+e agora linha
